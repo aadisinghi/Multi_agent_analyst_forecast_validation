@@ -1,0 +1,485 @@
+[
+    {
+        "name": "Kalyan Jewellers",
+        "ticker": "KALYANKJIL.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 9, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Mahanagar Gas",
+        "ticker": "MGL.NS",
+        "brokerage": "HDFC Securities",
+        "date": "Jan 9, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Varun Beverages",
+        "ticker": "VBL.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 8, 2025",
+        "term": "Long Term"
+    },
+    {
+        "name": "Jubilant Foodworks",
+        "ticker": "JUBLFOOD.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 8, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Infosys",
+        "ticker": "INFY.NS",
+        "brokerage": "BNP Paribas Securities",
+        "date": "Jan 8, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "JSW Energy",
+        "ticker": "JSWENERGY.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 8, 2025",
+        "term": "Long Term"
+    },
+    {
+        "name": "HDFC Bank",
+        "ticker": "HDFCBANK.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 8, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "HCL Technologies",
+        "ticker": "HCLTECH.NS",
+        "brokerage": "BNP Paribas Securities",
+        "date": "Jan 7, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Marico",
+        "ticker": "MARICO.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 7, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "ICICI Bank",
+        "ticker": "ICICIBANK.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 7, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Jyothy Labs",
+        "ticker": "JYOTHYLAB.NS",
+        "brokerage": "HDFC Securities",
+        "date": "Jan 7, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Dabur India",
+        "ticker": "DABUR.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 7, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Kalpataru Projects International",
+        "ticker": "KALPATPOWR.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 6, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Jubilant Foodworks",
+        "ticker": "JUBLFOOD.NS",
+        "brokerage": "HDFC Securities",
+        "date": "Jan 6, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "V-Mart Retail",
+        "ticker": "VMART.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 6, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Larsen & Toubro",
+        "ticker": "LT.NS",
+        "brokerage": "JM Financial",
+        "date": "Jan 6, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Radico Khaitan",
+        "ticker": "RADICO.NS",
+        "brokerage": "HDFC Securities",
+        "date": "Jan 6, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Muthoot Finance",
+        "ticker": "MUTHOOTFIN.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 3, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Bata India",
+        "ticker": "BATAINDIA.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 3, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Hindustan Petroleum Corporation",
+        "ticker": "HINDPETRO.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 3, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Infosys",
+        "ticker": "INFY.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 3, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Avenue Supermarts",
+        "ticker": "DMART.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 3, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "HDFC Bank",
+        "ticker": "HDFCBANK.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 2, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "KEI Industries",
+        "ticker": "KEI.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 2, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "JSW Energy",
+        "ticker": "JSWENERGY.NS",
+        "brokerage": "Hem Securities",
+        "date": "Jan 2, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Aditya Birla Sun Life AMC",
+        "ticker": "ABSLAMC.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 2, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Metro Brands",
+        "ticker": "METROBRAND.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 2, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Shyam Metalics and Energy",
+        "ticker": "SHYAMMETL.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Jan 1, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "JSW Energy",
+        "ticker": "JSWENERGY.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 1, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Man Infraconstruction",
+        "ticker": "MANINFRA.NS",
+        "brokerage": "Axis Securities",
+        "date": "Jan 1, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Ipca Laboratories",
+        "ticker": "IPCALAB.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Jan 1, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "Jindal Steel & Power",
+        "ticker": "JINDALSTEL.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Jan 1, 2025",
+        "term": "Medium"
+    },
+    {
+        "name": "SBI Cards and Payment Services",
+        "ticker": "SBICARD.NS",
+        "brokerage": "InCred Equities",
+        "date": "Dec 31, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Star Cement",
+        "ticker": "STARCEMENT.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 31, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Home First Finance Company India",
+        "ticker": "HOMEFIRST.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 31, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Petronet LNG",
+        "ticker": "PETRONET.NS",
+        "brokerage": "Geojit Financial Services",
+        "date": "Dec 31, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "JSW Infrastructure",
+        "ticker": "JSWINFRA.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 31, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "TCI Express",
+        "ticker": "TCIEXP.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 30, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Amara Raja Energy & Mobility",
+        "ticker": "AMARAJABAT.NS",
+        "brokerage": "Hem Securities",
+        "date": "Dec 30, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "EPACK Durables",
+        "ticker": "EPACK.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 30, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "ITD Cementation India",
+        "ticker": "ITDCEM.NS",
+        "brokerage": "Bajaj Broking",
+        "date": "Dec 30, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Raymond Lifestyle",
+        "ticker": "RAYMOND.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 30, 2024",
+        "term": "Long Term"
+    },
+    {
+        "name": "Himadri Speciality Chemical",
+        "ticker": "HSCL.NS",
+        "brokerage": "Bajaj Broking",
+        "date": "Dec 27, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Vedant Fashions",
+        "ticker": "VEDANTFASH.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 27, 2024",
+        "term": "Long Term"
+    },
+    {
+        "name": "Laurus Labs",
+        "ticker": "LAURUSLABS.NS",
+        "brokerage": "Bajaj Broking",
+        "date": "Dec 27, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Navin Fluorine International",
+        "ticker": "NAVINFLUOR.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 27, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "PNB Housing Finance",
+        "ticker": "PNBHOUSING.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 27, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Antony Waste Handling Cell",
+        "ticker": "AWHCL.NS",
+        "brokerage": "Hem Securities",
+        "date": "Dec 26, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Kajaria Ceramics",
+        "ticker": "KAJARIACER.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 26, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Hudco",
+        "ticker": "HUDCO.NS",
+        "brokerage": "Bajaj Broking",
+        "date": "Dec 26, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "NBCC (India)",
+        "ticker": "NBCC.NS",
+        "brokerage": "Hem Securities",
+        "date": "Dec 26, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Siemens",
+        "ticker": "SIEMENS.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 26, 2024",
+        "term": "Long Term"
+    },
+    {
+        "name": "GAIL (India)",
+        "ticker": "GAIL.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 24, 2024",
+        "term": "Long Term"
+    },
+    {
+        "name": "State Bank of India",
+        "ticker": "SBIN.NS",
+        "brokerage": "ICICI Direct",
+        "date": "Dec 24, 2024",
+        "term": "Next Quarter"
+    },
+    {
+        "name": "Prestige Estates Projects",
+        "ticker": "PRESTIGE.NS",
+        "brokerage": "Bajaj Broking",
+        "date": "Dec 24, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Devyani International",
+        "ticker": "DEVYANI.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 24, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "PTC Industries",
+        "ticker": "PTCIL.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 24, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Shriram Finance",
+        "ticker": "SHRIRAMFIN.NS",
+        "brokerage": "Axis Securities",
+        "date": "Dec 23, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Brainbees Solutions",
+        "ticker": "FIRSTCRY.NS",
+        "brokerage": "JM Financial",
+        "date": "Dec 23, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Anant Raj",
+        "ticker": "ANANTRAJ.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 23, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Persistent Systems",
+        "ticker": "PERSISTENT.NS",
+        "brokerage": "InCred Equities",
+        "date": "Dec 23, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "MTAR Technologies",
+        "ticker": "MTARTECH.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 23, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Azad Engineering",
+        "ticker": "AZAD.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 20, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Lemon Tree Hotels",
+        "ticker": "LEMONTREE.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 20, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Awfis Space Solutions",
+        "ticker": "AWFIS.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 20, 2024",
+        "term": "Long Term"
+    },
+    {
+        "name": "Ami Organics",
+        "ticker": "AMIORG.NS",
+        "brokerage": "JM Financial",
+        "date": "Dec 20, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Indian Hotels Company",
+        "ticker": "INDHOTEL.NS",
+        "brokerage": "Motilal Oswal Financial Services",
+        "date": "Dec 20, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Himadri Speciality Chemical",
+        "ticker": "HSCL.NS",
+        "brokerage": "ICICI Securities",
+        "date": "Dec 19, 2024",
+        "term": "Medium"
+    },
+    {
+        "name": "Piramal Pharma",
+        "ticker": "PPLPHARMA.NS",
+        "brokerage": "JM Financial",
+        "date": "Dec 19, 2024",
+        "term": "Long Term"
+    }
+]
